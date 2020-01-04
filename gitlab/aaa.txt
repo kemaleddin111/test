@@ -3,3 +3,7 @@ git add *
 git commit -m "text"
 git remote add origin [linksssssss]
 git push -u origin master
+
+
+
+list all used branches --> git remote -v
